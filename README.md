@@ -1,5 +1,5 @@
 
-# Hi there! 👋
+## Hi there! 👋
 
 I'm Aditi Satsangi, an Electrical Engineering student with a Computer Science specialization. 🌟
 
