@@ -18,6 +18,5 @@ Feel free to explore [my repositories](https://github.com/AditiSatsangi?tab=repo
 
 ## Top Languages
 
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSatsangi&layout=compact)](https://github.com/AditiSatsangi)
  
