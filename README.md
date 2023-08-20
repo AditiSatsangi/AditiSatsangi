@@ -10,6 +10,8 @@ I'm [Aditi Satsangi](https://github.com/AditiSatsangi), an Engineering student w
 
 Feel free to explore [my repositories](https://github.com/AditiSatsangi?tab=repositories) and connect with me! 🌐
 
+### GitHub Stats:
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AditiSatsangi)](https://github.com/AditiSatsangi)
 
 
