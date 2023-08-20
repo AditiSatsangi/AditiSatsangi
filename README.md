@@ -1,17 +1,23 @@
 
-# Hi there 👋
+# Hi there! 👋
 
-My name is Arpita Satsangi and I'm glad you stumbled upon my GitHub profile!
+I'm Aditi Satsangi, an Electrical Engineering student with a Computer Science specialization. 🌟
 
-- 👯 I am currently pursuing a degree in Electrical Engineering with a specialization in Computer Science.
-- 🌱 I’m currently learning Java to expand my programming skills.
+- 📚 Pursuing a degree in Electrical Engineering focusing on Computer Science.
+- 🤖 Currently diving into Machine Learning.
 - 😄 Pronouns: She/her
-- ⚡ Hobbies: dancing, singing, reading, and walking
+- ✨ Interests: Problem-Solving, Sudoku, Writing, Singing, and Social Service.
 
+Feel free to explore my repositories and connect with me! 🌐
+
+
+  
 ## GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)](https://github.com/arpitasatsangi)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AditiSatsangi)](https://github.com/AditiSatsangi)
+
 
 ## Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/arpitasatsangi)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSatsangi&layout=compact)](https://github.com/AditiSatsangi)
+
