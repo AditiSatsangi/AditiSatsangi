@@ -11,8 +11,8 @@ I'm [Aditi Satsangi](https://github.com/AditiSatsangi), an Engineering student w
 Feel free to explore [my repositories](https://github.com/AditiSatsangi?tab=repositories) and connect with me! 🌐
 
 ### Coding Profiles:
-- LeetCode - [Profile Link](https://leetcode.com/Aditi16009/)
 - HackerRank - [Profile Link](https://www.hackerrank.com/aditisatsangi)
+- LeetCode - [Profile Link](https://leetcode.com/Aditi16009/)
 - Geek for Geeks - [Profile Link](https://auth.geeksforgeeks.org/user/aditisazo7f)
 
 ### GitHub Stats:
