@@ -4,7 +4,7 @@
 I'm [Aditi Satsangi](https://github.com/AditiSatsangi), an Engineering student with a Computer Science specialization. 🌟
 
 - 📚 Pursuing a degree in Electrical Engineering focusing on Computer Science.
-- 🤖 Currently diving into Machine Learning.
+- 🤖 Currently diving into Machine Learning and Data Science.
 - 😄 Pronouns: She/her
 - ✨ Interests: Problem-solving, Sudoku, Writing, Singing, and Social Service.
 
