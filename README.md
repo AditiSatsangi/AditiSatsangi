@@ -17,8 +17,6 @@ Feel free to explore [my repositories](https://github.com/AditiSatsangi?tab=repo
 
 ### GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AditiSatsangi)](https://github.com/AditiSatsangi)
-
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSatsangi&layout=compact)](https://github.com/AditiSatsangi)
  
