@@ -1,7 +1,7 @@
 
 ## Hi there! 👋
 
-I'm [Aditi Satsangi](https://github.com/AditiSatsangi), an Engineering graduate with a Computer Science specialization. 🌟
+I'm [Aditi Satsangi](https://github.com/AditiSatsangi), a Researcher and Engineering Graduate with a specialization in Computer Science. 🌟
 
 - 📚 Pursuing a degree in Electrical Engineering focusing on Computer Science.
 - 🤖 Currently diving into Machine Learning and Data Science.
