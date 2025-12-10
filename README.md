@@ -17,10 +17,10 @@ I'm [Aditi Satsangi](https://github.com/AditiSatsangi), a Researcher and Enginee
 - 📝 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/aditisazo7f)
 
 ## 📊 GitHub Stats
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AditiSatsangi&theme=radical)](https://github.com/AditiSatsangi)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AditiSatsangi&theme=radical)](https://github.com/AditiSatsangi)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSatsangi&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AditiSatsangi&show_icons=true&theme=tokyonight)
 ---
 
 Feel free to explore [my repositories](https://github.com/AditiSatsangi?tab=repositories) and connect with me! 🌐
