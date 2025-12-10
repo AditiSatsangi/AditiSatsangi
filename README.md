@@ -6,7 +6,7 @@ I'm [Aditi Satsangi](https://github.com/AditiSatsangi), a Researcher and Enginee
 
 - 🎓 **MSc Computer Science** - Western University, Canada
 - 📚 **BTech Electrical Engineering** with focus on Computer Science
-- 🤖 Currently working on **Machine Learning**, **Deep Learning**, and **EEG Signal Processing**
+- 🤖 Currently working on **Machine Learning**, **Deep Learning**, **Large Language Models**
 - 😄 Pronouns: She/her
 - ✨ Interests: Problem-solving, Sudoku, Writing, Singing, and Social Service
 
