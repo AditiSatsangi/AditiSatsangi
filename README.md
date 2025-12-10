@@ -1,22 +1,28 @@
+# Hi there! 👋
 
-## Hi there! 👋
+I'm [Aditi Satsangi](https://github.com/AditiSatsangi), a Researcher and Engineering Graduate specializing in Computer Science. 🌟
 
-I'm [Aditi Satsangi](https://github.com/AditiSatsangi), a Researcher and Engineering Graduate with a specialization in Computer Science. 🌟
+## About Me
 
-- 📚 Completed a degree in Electrical Engineering focusing on Computer Science.
-- 🤖 Currently diving into Machine Learning and Data Science.
+- 🎓 **MSc Computer Science** - Western University, Canada
+- 📚 **BEng Electrical Engineering** with focus on Computer Science
+- 🤖 Currently working on **Machine Learning**, **Deep Learning**, and **EEG Signal Processing**
 - 😄 Pronouns: She/her
-- ✨ Interests: Problem-solving, Sudoku, Writing, Singing, and Social Service.
+- ✨ Interests: Problem-solving, Sudoku, Writing, Singing, and Social Service
+
+## 💻 Coding Profiles
+
+- 🏆 [HackerRank](https://www.hackerrank.com/aditisatsangi)
+- 💡 [LeetCode](https://leetcode.com/Aditi16009/)
+- 📝 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/aditisazo7f)
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSatsangi&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AditiSatsangi&show_icons=true&theme=radical)
+
+---
 
 Feel free to explore [my repositories](https://github.com/AditiSatsangi?tab=repositories) and connect with me! 🌐
-
-### Coding Profiles:
-- HackerRank - [Profile Link](https://www.hackerrank.com/aditisatsangi)
-- LeetCode - [Profile Link](https://leetcode.com/Aditi16009/)
-- GeeksforGeeks - [Profile Link](https://auth.geeksforgeeks.org/user/aditisazo7f)
-
-### GitHub Stats:
-
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSatsangi&layout=compact)](https://github.com/AditiSatsangi)
  
