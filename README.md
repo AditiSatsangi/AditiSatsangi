@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Aditi Satsangi](https://github.com/AditiSatsangi), a Researcher and Engineering Graduate specializing in Computer Science. 🌟
+I'm [Aditi Satsangi](https://github.com/AditiSatsangi), an M.Sc. Computer Science researcher at Western University working on LLMs, trustworthy AI, time-series learning, and multimodal AI. 🌟
 
 ## About Me
 
